@@ -1,6 +1,6 @@
 AUTHOR = 'Donald'
 SITENAME = 'DevBlog-Donald McLaughlin'
-SITEURL = ''
+SITEURL = 'delightful-hotteok-2fd60b.netlify.app'
 
 PATH = 'content'
 
