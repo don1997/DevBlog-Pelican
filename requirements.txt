@@ -1,0 +1,4 @@
+pelican
+markdown
+pygments
+pelican-render-math
